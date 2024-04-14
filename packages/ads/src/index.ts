@@ -1,0 +1,4 @@
+import Ads from "./Ads";
+
+export default Ads;
+export * from "./Ads.interfaces";
